@@ -5,13 +5,12 @@
   <img src="graphs/graphe1.png" width="30%" height="30%">
 </p>
 
-
 >## Project:
 For this project we had to implement 3 algorithms: 
 
-- Strongly connected components https://www.geeksforgeeks.org/strongly-connected-components/
-- Dijkstra https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
-- Welsh-Powell https://en.wikipedia.org/wiki/Graph_coloring
+- Strongly connected components [GeeksforGeeks](https://www.geeksforgeeks.org/strongly-connected-components/)
+- Dijkstra [Wikipedia](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
+- Welsh-Powell [Wikipedia](https://en.wikipedia.org/wiki/Graph_coloring)
 
 <h2 align="center"> Graph structure </h2>
 Our graphs are represented by text files, the first line contains the name of the nodes and the following lines indicate the different edges in the graph. For example the second line of this text file indicates that there is an edge between the node 0 to the node 3 (undirected graph).
@@ -44,9 +43,9 @@ For Dijkstra's algorithm the "cost" of each edge has to be taken into account fo
 </p>
 
 
-Completed in the third year of my Computer Science degree at the F.S.T Limoges (France) with Yoann SOCHAJ.
+🕙 Completed in the third year of my Computer Science degree at the F.S.T Limoges (France) with Yoann SOCHAJ.
 
-Class: Theorie des graphes
+📚 Class: Théorie des graphes
 
 >## Features:
 - Visual representation of the Welsh-Powell algorithm with pydot.
@@ -55,7 +54,7 @@ pip install pydot
 ```
 
 >## Technology used:
-Python: https://www.python.org/
+🐍 Python: https://www.python.org/
 
 >## Authors:
 - Matt TAYLOR
