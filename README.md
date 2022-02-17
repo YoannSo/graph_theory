@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">
-  <img src="graphe1.png" width="30%" height="30%">
+  <img src="graphs/graphe1.png" width="30%" height="30%">
 </p>
 
 
