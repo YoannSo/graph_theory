@@ -60,3 +60,6 @@ Python: https://www.python.org/
 >## Authors:
 - Matt TAYLOR
 - Yoann SOCHAJ [(GitHub profile)](https://github.com/YoannSo)
+
+>## Useful Links:
+Project report: [TAYLOR_SOCHAJ_Théorie des Graphes.pdf](TAYLOR_SOCHAJ_Th%C3%A9orie%20des%20Graphes.pdf)
